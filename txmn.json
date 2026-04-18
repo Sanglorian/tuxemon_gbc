@@ -20,7 +20,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "teleport"
+        "move": "blink"
       }
     ],
     "types": [
@@ -42,35 +42,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 8,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 15,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 22,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 29,
-        "move": "ancientpower"
+        "move": "primal_force"
       },
       {
         "level": 36,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 43,
-        "move": "take_down"
+        "move": "bulldash"
       },
       {
         "level": 50,
-        "move": "hyper_beam"
+        "move": "obliterate"
       }
     ],
     "types": [
@@ -93,43 +93,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "teleport"
+        "move": "blink"
       },
       {
         "level": 1,
-        "move": "kinesis"
+        "move": "mind_bend"
       },
       {
         "level": 1,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 16,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 18,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 21,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 26,
-        "move": "recover"
+        "move": "self_mend"
       },
       {
         "level": 31,
-        "move": "future_sight"
+        "move": "foresee_strike"
       },
       {
         "level": 38,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       },
       {
         "level": 45,
-        "move": "reflect"
+        "move": "psi_mirror"
       }
     ],
     "types": [
@@ -151,43 +151,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 1,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 9,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 15,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 25,
-        "move": "glare"
+        "move": "paralyze_gaze"
       },
       {
         "level": 33,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 43,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 51,
-        "move": "haze"
+        "move": "chill_haze"
       }
     ],
     "types": [
@@ -209,35 +209,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 10,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 15,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 20,
-        "move": "twineedle"
+        "move": "twin_sting"
       },
       {
         "level": 25,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 30,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 35,
-        "move": "pin_missile"
+        "move": "needle_volley"
       },
       {
         "level": 40,
-        "move": "agility"
+        "move": "thought_speed"
       }
     ],
     "types": [
@@ -265,43 +265,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 6,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 11,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 15,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 17,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 19,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 23,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 30,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 37,
-        "move": "razor_leaf"
+        "move": "blade_leaf"
       },
       {
         "level": 45,
-        "move": "slam"
+        "move": "groundslam"
       }
     ],
     "types": [
@@ -324,59 +324,59 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "bubble"
+        "move": "blip_bubble"
       },
       {
         "level": 1,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 4,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 7,
-        "move": "bubble"
+        "move": "blip_bubble"
       },
       {
         "level": 10,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 13,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 19,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 25,
-        "move": "rapid_spin"
+        "move": "whirlspin"
       },
       {
         "level": 31,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 42,
-        "move": "rain_dance"
+        "move": "downpour"
       },
       {
         "level": 55,
-        "move": "skull_bash"
+        "move": "headlong_bash"
       },
       {
         "level": 68,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -404,47 +404,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 4,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 7,
-        "move": "leech_seed"
+        "move": "paraseed"
       },
       {
         "level": 10,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 15,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 15,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 20,
-        "move": "razor_leaf"
+        "move": "blade_leaf"
       },
       {
         "level": 25,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 32,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 39,
-        "move": "synthesis"
+        "move": "photosynthesis"
       },
       {
         "level": 46,
-        "move": "solarbeam"
+        "move": "sun_beam"
       }
     ],
     "types": [
@@ -467,43 +467,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 10,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 13,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 14,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 15,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 18,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 23,
-        "move": "whirlwind"
+        "move": "blowaway"
       },
       {
         "level": 28,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 34,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 40,
-        "move": "safeguard"
+        "move": "barrier_veil"
       }
     ],
     "types": [
@@ -532,11 +532,11 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "string_shot"
+        "move": "web_snare"
       }
     ],
     "types": [
@@ -558,47 +558,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "pound"
+        "move": "thwack"
       },
       {
         "level": 5,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 9,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 13,
-        "move": "softboiled"
+        "move": "egg_heal"
       },
       {
         "level": 17,
-        "move": "doubleslap"
+        "move": "twin_slap"
       },
       {
         "level": 23,
-        "move": "minimize"
+        "move": "shrink"
       },
       {
         "level": 29,
-        "move": "sing"
+        "move": "lullaby"
       },
       {
         "level": 35,
-        "move": "egg_bomb"
+        "move": "egg_burst"
       },
       {
         "level": 41,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 49,
-        "move": "light_screen"
+        "move": "light_veil"
       },
       {
         "level": 57,
-        "move": "double_edge"
+        "move": "reckless_charge"
       }
     ],
     "types": [
@@ -620,55 +620,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 1,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 7,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 13,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 20,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 27,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 34,
-        "move": "flamethrower"
+        "move": "blazestream"
       },
       {
         "level": 36,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 44,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 54,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 64,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       }
     ],
     "types": [
@@ -697,43 +697,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 7,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 13,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 19,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 25,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 31,
-        "move": "flamethrower"
+        "move": "blazestream"
       },
       {
         "level": 37,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 43,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 49,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       }
     ],
     "types": [
@@ -761,47 +761,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 7,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 13,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 20,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 27,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 34,
-        "move": "flamethrower"
+        "move": "blazestream"
       },
       {
         "level": 41,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 48,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 55,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       }
     ],
     "types": [
@@ -823,19 +823,19 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "sing"
+        "move": "lullaby"
       },
       {
         "level": 1,
-        "move": "doubleslap"
+        "move": "twin_slap"
       },
       {
         "level": 1,
-        "move": "metronome"
+        "move": "wild_chance"
       },
       {
         "level": 1,
-        "move": "moonlight"
+        "move": "lunar_mend"
       }
     ],
     "types": [
@@ -863,43 +863,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "pound"
+        "move": "thwack"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 4,
-        "move": "encore"
+        "move": "force_repeat"
       },
       {
         "level": 8,
-        "move": "sing"
+        "move": "lullaby"
       },
       {
         "level": 13,
-        "move": "doubleslap"
+        "move": "twin_slap"
       },
       {
         "level": 19,
-        "move": "minimize"
+        "move": "shrink"
       },
       {
         "level": 26,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 34,
-        "move": "metronome"
+        "move": "wild_chance"
       },
       {
         "level": 43,
-        "move": "moonlight"
+        "move": "lunar_mend"
       },
       {
         "level": 53,
-        "move": "light_screen"
+        "move": "light_veil"
       }
     ],
     "types": [
@@ -921,27 +921,27 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 1,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 1,
-        "move": "aurora_beam"
+        "move": "aurora_ray"
       },
       {
         "level": 1,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 33,
-        "move": "spikes"
+        "move": "ground_spikes"
       },
       {
         "level": 41,
-        "move": "spike_cannon"
+        "move": "spike_volley"
       }
     ],
     "types": [
@@ -970,35 +970,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 5,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 9,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 17,
-        "move": "dig"
+        "move": "burrow"
       },
       {
         "level": 25,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 33,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 41,
-        "move": "earthquake"
+        "move": "tremor"
       },
       {
         "level": 49,
-        "move": "fissure"
+        "move": "ground_split"
       }
     ],
     "types": [
@@ -1020,7 +1020,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "transform"
+        "move": "shapeshifter"
       }
     ],
     "types": [
@@ -1048,51 +1048,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 1,
-        "move": "twister"
+        "move": "wind_vortex"
       },
       {
         "level": 8,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 15,
-        "move": "twister"
+        "move": "wind_vortex"
       },
       {
         "level": 22,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 29,
-        "move": "slam"
+        "move": "groundslam"
       },
       {
         "level": 38,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 47,
-        "move": "safeguard"
+        "move": "barrier_veil"
       },
       {
         "level": 56,
-        "move": "outrage"
+        "move": "dragon_frenzy"
       },
       {
         "level": 65,
-        "move": "hyper_beam"
+        "move": "obliterate"
       }
     ],
     "types": [
@@ -1114,55 +1114,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 1,
-        "move": "twister"
+        "move": "wind_vortex"
       },
       {
         "level": 8,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 15,
-        "move": "twister"
+        "move": "wind_vortex"
       },
       {
         "level": 22,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 29,
-        "move": "slam"
+        "move": "groundslam"
       },
       {
         "level": 38,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 47,
-        "move": "safeguard"
+        "move": "barrier_veil"
       },
       {
         "level": 55,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 61,
-        "move": "outrage"
+        "move": "dragon_frenzy"
       },
       {
         "level": 75,
-        "move": "hyper_beam"
+        "move": "obliterate"
       }
     ],
     "types": [
@@ -1191,43 +1191,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 8,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 15,
-        "move": "twister"
+        "move": "wind_vortex"
       },
       {
         "level": 22,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 29,
-        "move": "slam"
+        "move": "groundslam"
       },
       {
         "level": 36,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 43,
-        "move": "safeguard"
+        "move": "barrier_veil"
       },
       {
         "level": 50,
-        "move": "outrage"
+        "move": "dragon_frenzy"
       },
       {
         "level": 57,
-        "move": "hyper_beam"
+        "move": "obliterate"
       }
     ],
     "types": [
@@ -1249,47 +1249,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tri_attack"
+        "move": "triple_beam"
       },
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 5,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 9,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 17,
-        "move": "dig"
+        "move": "burrow"
       },
       {
         "level": 25,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 37,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 49,
-        "move": "earthquake"
+        "move": "tremor"
       },
       {
         "level": 61,
-        "move": "fissure"
+        "move": "ground_split"
       }
     ],
     "types": [
@@ -1327,35 +1327,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 8,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 16,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 23,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 30,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 36,
-        "move": "baton_pass"
+        "move": "torch_pass"
       },
       {
         "level": 42,
-        "move": "take_down"
+        "move": "bulldash"
       }
     ],
     "types": [
@@ -1383,35 +1383,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 9,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 15,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 23,
-        "move": "glare"
+        "move": "paralyze_gaze"
       },
       {
         "level": 29,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 37,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 43,
-        "move": "haze"
+        "move": "chill_haze"
       }
     ],
     "types": [
@@ -1433,39 +1433,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "thunderpunch"
+        "move": "voltfist"
       },
       {
         "level": 9,
-        "move": "thunderpunch"
+        "move": "voltfist"
       },
       {
         "level": 17,
-        "move": "light_screen"
+        "move": "light_veil"
       },
       {
         "level": 25,
-        "move": "swift"
+        "move": "star_dart"
       },
       {
         "level": 36,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 47,
-        "move": "thunderbolt"
+        "move": "bolt_strike"
       },
       {
         "level": 58,
-        "move": "thunder"
+        "move": "storm_call"
       }
     ],
     "types": [
@@ -1493,39 +1493,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "barrage"
+        "move": "seed_barrage"
       },
       {
         "level": 1,
-        "move": "hypnosis"
+        "move": "deep_trance"
       },
       {
         "level": 7,
-        "move": "reflect"
+        "move": "psi_mirror"
       },
       {
         "level": 13,
-        "move": "leech_seed"
+        "move": "paraseed"
       },
       {
         "level": 19,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 25,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 31,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 37,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 43,
-        "move": "solarbeam"
+        "move": "sun_beam"
       }
     ],
     "types": [
@@ -1548,23 +1548,23 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "barrage"
+        "move": "seed_barrage"
       },
       {
         "level": 1,
-        "move": "hypnosis"
+        "move": "deep_trance"
       },
       {
         "level": 1,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 19,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 31,
-        "move": "egg_bomb"
+        "move": "egg_burst"
       }
     ],
     "types": [
@@ -1587,35 +1587,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "peck"
+        "move": "sharp_peck"
       },
       {
         "level": 7,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 13,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 19,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 25,
-        "move": "swords_dance"
+        "move": "blade_ritual"
       },
       {
         "level": 31,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 37,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 44,
-        "move": "false_swipe"
+        "move": "mercy_cut"
       }
     ],
     "types": [
@@ -1638,43 +1638,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "peck"
+        "move": "sharp_peck"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 7,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 13,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 26,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 32,
-        "move": "mirror_move"
+        "move": "copy_flight"
       },
       {
         "level": 40,
-        "move": "drill_peck"
+        "move": "drill_dive"
       },
       {
         "level": 47,
-        "move": "agility"
+        "move": "thought_speed"
       }
     ],
     "types": [
@@ -1696,43 +1696,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 8,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 16,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 23,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 30,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 36,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       },
       {
         "level": 42,
-        "move": "smog"
+        "move": "toxic_smog"
       },
       {
         "level": 47,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 52,
-        "move": "flamethrower"
+        "move": "blazestream"
       }
     ],
     "types": [
@@ -1760,39 +1760,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "hypnosis"
+        "move": "deep_trance"
       },
       {
         "level": 1,
-        "move": "lick"
+        "move": "chill_lick"
       },
       {
         "level": 8,
-        "move": "spite"
+        "move": "drain_spite"
       },
       {
         "level": 13,
-        "move": "mean_look"
+        "move": "locking_gaze"
       },
       {
         "level": 16,
-        "move": "curse"
+        "move": "hex_curse"
       },
       {
         "level": 21,
-        "move": "night_shade"
+        "move": "shade_touch"
       },
       {
         "level": 28,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 33,
-        "move": "dream_eater"
+        "move": "dream_devour"
       },
       {
         "level": 36,
-        "move": "destiny_bond"
+        "move": "doom_bond"
       }
     ],
     "types": [
@@ -1815,43 +1815,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "hypnosis"
+        "move": "deep_trance"
       },
       {
         "level": 1,
-        "move": "lick"
+        "move": "chill_lick"
       },
       {
         "level": 1,
-        "move": "spite"
+        "move": "drain_spite"
       },
       {
         "level": 8,
-        "move": "spite"
+        "move": "drain_spite"
       },
       {
         "level": 13,
-        "move": "mean_look"
+        "move": "locking_gaze"
       },
       {
         "level": 16,
-        "move": "curse"
+        "move": "hex_curse"
       },
       {
         "level": 21,
-        "move": "night_shade"
+        "move": "shade_touch"
       },
       {
         "level": 31,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 39,
-        "move": "dream_eater"
+        "move": "dream_devour"
       },
       {
         "level": 48,
-        "move": "destiny_bond"
+        "move": "doom_bond"
       }
     ],
     "types": [
@@ -1880,39 +1880,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 6,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 11,
-        "move": "rock_throw"
+        "move": "stone_hurl"
       },
       {
         "level": 16,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 21,
-        "move": "selfdestruct"
+        "move": "self_ignite"
       },
       {
         "level": 26,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 31,
-        "move": "rollout"
+        "move": "boulder_roll"
       },
       {
         "level": 36,
-        "move": "earthquake"
+        "move": "tremor"
       },
       {
         "level": 41,
-        "move": "explosion"
+        "move": "grand_explosion"
       }
     ],
     "types": [
@@ -1940,43 +1940,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "absorb"
+        "move": "sap_drain"
       },
       {
         "level": 1,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 1,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 7,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 14,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 16,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 18,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 24,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 35,
-        "move": "moonlight"
+        "move": "lunar_mend"
       },
       {
         "level": 44,
-        "move": "petal_dance"
+        "move": "petal_frenzy"
       }
     ],
     "types": [
@@ -1999,39 +1999,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 1,
-        "move": "leech_life"
+        "move": "blood_sap"
       },
       {
         "level": 1,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 6,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 12,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 19,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 30,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 42,
-        "move": "mean_look"
+        "move": "locking_gaze"
       },
       {
         "level": 55,
-        "move": "haze"
+        "move": "chill_haze"
       }
     ],
     "types": [
@@ -2054,47 +2054,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 1,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 5,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 10,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 16,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 23,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 31,
-        "move": "psych_up"
+        "move": "mirror_mind"
       },
       {
         "level": 44,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 58,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -2117,51 +2117,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 1,
-        "move": "rock_throw"
+        "move": "stone_hurl"
       },
       {
         "level": 1,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 6,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 11,
-        "move": "rock_throw"
+        "move": "stone_hurl"
       },
       {
         "level": 16,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 21,
-        "move": "selfdestruct"
+        "move": "self_ignite"
       },
       {
         "level": 27,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 34,
-        "move": "rollout"
+        "move": "boulder_roll"
       },
       {
         "level": 41,
-        "move": "earthquake"
+        "move": "tremor"
       },
       {
         "level": 48,
-        "move": "explosion"
+        "move": "grand_explosion"
       }
     ],
     "types": [
@@ -2188,47 +2188,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 1,
-        "move": "rock_throw"
+        "move": "stone_hurl"
       },
       {
         "level": 6,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 11,
-        "move": "rock_throw"
+        "move": "stone_hurl"
       },
       {
         "level": 16,
-        "move": "magnitude"
+        "move": "seismic_pulse"
       },
       {
         "level": 21,
-        "move": "selfdestruct"
+        "move": "self_ignite"
       },
       {
         "level": 27,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 34,
-        "move": "rollout"
+        "move": "boulder_roll"
       },
       {
         "level": 41,
-        "move": "earthquake"
+        "move": "tremor"
       },
       {
         "level": 48,
-        "move": "explosion"
+        "move": "grand_explosion"
       }
     ],
     "types": [
@@ -2250,35 +2250,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "thrash"
+        "move": "rampage"
       },
       {
         "level": 20,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 25,
-        "move": "dragon_rage"
+        "move": "dragon_wrath"
       },
       {
         "level": 30,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 35,
-        "move": "twister"
+        "move": "wind_vortex"
       },
       {
         "level": 40,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       },
       {
         "level": 45,
-        "move": "rain_dance"
+        "move": "downpour"
       },
       {
         "level": 50,
-        "move": "hyper_beam"
+        "move": "obliterate"
       }
     ],
     "types": [
@@ -2306,43 +2306,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "hypnosis"
+        "move": "deep_trance"
       },
       {
         "level": 1,
-        "move": "lick"
+        "move": "chill_lick"
       },
       {
         "level": 1,
-        "move": "spite"
+        "move": "drain_spite"
       },
       {
         "level": 8,
-        "move": "spite"
+        "move": "drain_spite"
       },
       {
         "level": 13,
-        "move": "mean_look"
+        "move": "locking_gaze"
       },
       {
         "level": 16,
-        "move": "curse"
+        "move": "hex_curse"
       },
       {
         "level": 21,
-        "move": "night_shade"
+        "move": "shade_touch"
       },
       {
         "level": 31,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 39,
-        "move": "dream_eater"
+        "move": "dream_devour"
       },
       {
         "level": 48,
-        "move": "destiny_bond"
+        "move": "doom_bond"
       }
     ],
     "types": [
@@ -2365,43 +2365,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "comet_punch"
+        "move": "meteor_flurry"
       },
       {
         "level": 7,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 13,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 26,
-        "move": "thunderpunch"
+        "move": "voltfist"
       },
       {
         "level": 26,
-        "move": "ice_punch"
+        "move": "glacial_fist"
       },
       {
         "level": 26,
-        "move": "fire_punch"
+        "move": "inferno_fist"
       },
       {
         "level": 32,
-        "move": "mach_punch"
+        "move": "swift_jab"
       },
       {
         "level": 38,
-        "move": "mega_punch"
+        "move": "crusher_blow"
       },
       {
         "level": 44,
-        "move": "detect"
+        "move": "keen_sense"
       },
       {
         "level": 50,
-        "move": "counter"
+        "move": "retaliation"
       }
     ],
     "types": [
@@ -2423,47 +2423,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 6,
-        "move": "meditate"
+        "move": "focus_mind"
       },
       {
         "level": 11,
-        "move": "rolling_kick"
+        "move": "spin_kick"
       },
       {
         "level": 16,
-        "move": "jump_kick"
+        "move": "leaping_kick"
       },
       {
         "level": 21,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 26,
-        "move": "hi_jump_kick"
+        "move": "sky_kick"
       },
       {
         "level": 31,
-        "move": "mind_reader"
+        "move": "precognition"
       },
       {
         "level": 36,
-        "move": "foresight"
+        "move": "true_sight"
       },
       {
         "level": 41,
-        "move": "endure"
+        "move": "grit"
       },
       {
         "level": 46,
-        "move": "mega_kick"
+        "move": "titan_kick"
       },
       {
         "level": 51,
-        "move": "reversal"
+        "move": "last_stand"
       }
     ],
     "types": [
@@ -2491,55 +2491,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "leech_seed"
+        "move": "paraseed"
       },
       {
         "level": 4,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 7,
-        "move": "leech_seed"
+        "move": "paraseed"
       },
       {
         "level": 10,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 15,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 15,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 22,
-        "move": "razor_leaf"
+        "move": "blade_leaf"
       },
       {
         "level": 29,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 38,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 47,
-        "move": "synthesis"
+        "move": "photosynthesis"
       },
       {
         "level": 56,
-        "move": "solarbeam"
+        "move": "sun_beam"
       }
     ],
     "types": [
@@ -2568,39 +2568,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "sing"
+        "move": "lullaby"
       },
       {
         "level": 4,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 9,
-        "move": "pound"
+        "move": "thwack"
       },
       {
         "level": 14,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 19,
-        "move": "rollout"
+        "move": "boulder_roll"
       },
       {
         "level": 24,
-        "move": "doubleslap"
+        "move": "twin_slap"
       },
       {
         "level": 29,
-        "move": "rest"
+        "move": "deep_sleep"
       },
       {
         "level": 34,
-        "move": "body_slam"
+        "move": "full_press"
       },
       {
         "level": 39,
-        "move": "double_edge"
+        "move": "reckless_charge"
       }
     ],
     "types": [
@@ -2622,43 +2622,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 8,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 16,
-        "move": "thundershock"
+        "move": "spark_jolt"
       },
       {
         "level": 23,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 30,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 36,
-        "move": "pin_missile"
+        "move": "needle_volley"
       },
       {
         "level": 42,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 47,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 52,
-        "move": "thunder"
+        "move": "storm_call"
       }
     ],
     "types": [
@@ -2680,51 +2680,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "pound"
+        "move": "thwack"
       },
       {
         "level": 1,
-        "move": "lick"
+        "move": "chill_lick"
       },
       {
         "level": 1,
-        "move": "lovely_kiss"
+        "move": "dreamy_kiss"
       },
       {
         "level": 1,
-        "move": "powder_snow"
+        "move": "frost_dusting"
       },
       {
         "level": 9,
-        "move": "lovely_kiss"
+        "move": "dreamy_kiss"
       },
       {
         "level": 13,
-        "move": "powder_snow"
+        "move": "frost_dusting"
       },
       {
         "level": 21,
-        "move": "doubleslap"
+        "move": "twin_slap"
       },
       {
         "level": 25,
-        "move": "ice_punch"
+        "move": "glacial_fist"
       },
       {
         "level": 35,
-        "move": "mean_look"
+        "move": "locking_gaze"
       },
       {
         "level": 41,
-        "move": "body_slam"
+        "move": "full_press"
       },
       {
         "level": 51,
-        "move": "perish_song"
+        "move": "doom_melody"
       },
       {
         "level": 57,
-        "move": "blizzard"
+        "move": "blizzard_storm"
       }
     ],
     "types": [
@@ -2752,43 +2752,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "teleport"
+        "move": "blink"
       },
       {
         "level": 1,
-        "move": "kinesis"
+        "move": "mind_bend"
       },
       {
         "level": 1,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 16,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 18,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 21,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 26,
-        "move": "recover"
+        "move": "self_mend"
       },
       {
         "level": 31,
-        "move": "future_sight"
+        "move": "foresee_strike"
       },
       {
         "level": 38,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       },
       {
         "level": 45,
-        "move": "reflect"
+        "move": "psi_mirror"
       }
     ],
     "types": [
@@ -2816,11 +2816,11 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 7,
-        "move": "harden"
+        "move": "shell_up"
       }
     ],
     "types": [
@@ -2842,39 +2842,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "comet_punch"
+        "move": "meteor_flurry"
       },
       {
         "level": 7,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 13,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 19,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 25,
-        "move": "mega_punch"
+        "move": "crusher_blow"
       },
       {
         "level": 31,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 37,
-        "move": "endure"
+        "move": "grit"
       },
       {
         "level": 43,
-        "move": "dizzy_punch"
+        "move": "spinning_blow"
       },
       {
         "level": 49,
-        "move": "reversal"
+        "move": "last_stand"
       }
     ],
     "types": [
@@ -2902,39 +2902,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "poison_gas"
+        "move": "poison_cloud"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 9,
-        "move": "smog"
+        "move": "toxic_smog"
       },
       {
         "level": 17,
-        "move": "selfdestruct"
+        "move": "self_ignite"
       },
       {
         "level": 21,
-        "move": "sludge"
+        "move": "sludge_hurl"
       },
       {
         "level": 25,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 33,
-        "move": "haze"
+        "move": "chill_haze"
       },
       {
         "level": 41,
-        "move": "explosion"
+        "move": "grand_explosion"
       },
       {
         "level": 45,
-        "move": "destiny_bond"
+        "move": "doom_bond"
       }
     ],
     "types": [
@@ -2956,47 +2956,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "sing"
+        "move": "lullaby"
       },
       {
         "level": 8,
-        "move": "mist"
+        "move": "icy_mist"
       },
       {
         "level": 15,
-        "move": "body_slam"
+        "move": "full_press"
       },
       {
         "level": 22,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 29,
-        "move": "perish_song"
+        "move": "doom_melody"
       },
       {
         "level": 36,
-        "move": "ice_beam"
+        "move": "frost_beam"
       },
       {
         "level": 43,
-        "move": "rain_dance"
+        "move": "downpour"
       },
       {
         "level": 50,
-        "move": "safeguard"
+        "move": "barrier_veil"
       },
       {
         "level": 57,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -3019,35 +3019,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "lick"
+        "move": "chill_lick"
       },
       {
         "level": 7,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 13,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 19,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 25,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 31,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 37,
-        "move": "slam"
+        "move": "groundslam"
       },
       {
         "level": 43,
-        "move": "screech"
+        "move": "piercing_shriek"
       }
     ],
     "types": [
@@ -3069,47 +3069,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "low_kick"
+        "move": "leg_sweep"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 8,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 15,
-        "move": "karate_chop"
+        "move": "karate_strike"
       },
       {
         "level": 19,
-        "move": "seismic_toss"
+        "move": "gravity_throw"
       },
       {
         "level": 25,
-        "move": "foresight"
+        "move": "true_sight"
       },
       {
         "level": 34,
-        "move": "vital_throw"
+        "move": "sure_throw"
       },
       {
         "level": 43,
-        "move": "cross_chop"
+        "move": "cross_strike"
       },
       {
         "level": 52,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 61,
-        "move": "submission"
+        "move": "hold_throw"
       }
     ],
     "types": [
@@ -3136,47 +3136,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "low_kick"
+        "move": "leg_sweep"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 8,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 15,
-        "move": "karate_chop"
+        "move": "karate_strike"
       },
       {
         "level": 19,
-        "move": "seismic_toss"
+        "move": "gravity_throw"
       },
       {
         "level": 25,
-        "move": "foresight"
+        "move": "true_sight"
       },
       {
         "level": 34,
-        "move": "vital_throw"
+        "move": "sure_throw"
       },
       {
         "level": 43,
-        "move": "cross_chop"
+        "move": "cross_strike"
       },
       {
         "level": 52,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 61,
-        "move": "submission"
+        "move": "hold_throw"
       }
     ],
     "types": [
@@ -3204,43 +3204,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "low_kick"
+        "move": "leg_sweep"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 7,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 13,
-        "move": "karate_chop"
+        "move": "karate_strike"
       },
       {
         "level": 19,
-        "move": "seismic_toss"
+        "move": "gravity_throw"
       },
       {
         "level": 25,
-        "move": "foresight"
+        "move": "true_sight"
       },
       {
         "level": 31,
-        "move": "vital_throw"
+        "move": "sure_throw"
       },
       {
         "level": 37,
-        "move": "cross_chop"
+        "move": "cross_strike"
       },
       {
         "level": 43,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 49,
-        "move": "submission"
+        "move": "hold_throw"
       }
     ],
     "types": [
@@ -3268,15 +3268,15 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "splash"
+        "move": "futile_flop"
       },
       {
         "level": 15,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 30,
-        "move": "flail"
+        "move": "desperation_flail"
       }
     ],
     "types": [
@@ -3298,51 +3298,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "smog"
+        "move": "toxic_smog"
       },
       {
         "level": 1,
-        "move": "fire_punch"
+        "move": "inferno_fist"
       },
       {
         "level": 7,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 13,
-        "move": "smog"
+        "move": "toxic_smog"
       },
       {
         "level": 19,
-        "move": "fire_punch"
+        "move": "inferno_fist"
       },
       {
         "level": 25,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 33,
-        "move": "sunny_day"
+        "move": "solar_surge"
       },
       {
         "level": 41,
-        "move": "flamethrower"
+        "move": "blazestream"
       },
       {
         "level": 49,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 57,
-        "move": "fire_blast"
+        "move": "pyre_burst"
       }
     ],
     "types": [
@@ -3370,39 +3370,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 6,
-        "move": "thundershock"
+        "move": "spark_jolt"
       },
       {
         "level": 11,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 16,
-        "move": "sonicboom"
+        "move": "shockwave"
       },
       {
         "level": 21,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 27,
-        "move": "lock_on"
+        "move": "target_lock"
       },
       {
         "level": 33,
-        "move": "swift"
+        "move": "star_dart"
       },
       {
         "level": 39,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 45,
-        "move": "zap_cannon"
+        "move": "plasma_cannon"
       }
     ],
     "types": [
@@ -3425,51 +3425,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "thundershock"
+        "move": "spark_jolt"
       },
       {
         "level": 1,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 1,
-        "move": "sonicboom"
+        "move": "shockwave"
       },
       {
         "level": 6,
-        "move": "thundershock"
+        "move": "spark_jolt"
       },
       {
         "level": 11,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 16,
-        "move": "sonicboom"
+        "move": "shockwave"
       },
       {
         "level": 21,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 27,
-        "move": "lock_on"
+        "move": "target_lock"
       },
       {
         "level": 35,
-        "move": "tri_attack"
+        "move": "triple_beam"
       },
       {
         "level": 43,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 53,
-        "move": "zap_cannon"
+        "move": "plasma_cannon"
       }
     ],
     "types": [
@@ -3498,43 +3498,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 9,
-        "move": "low_kick"
+        "move": "leg_sweep"
       },
       {
         "level": 15,
-        "move": "karate_chop"
+        "move": "karate_strike"
       },
       {
         "level": 21,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 27,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 33,
-        "move": "seismic_toss"
+        "move": "gravity_throw"
       },
       {
         "level": 39,
-        "move": "cross_chop"
+        "move": "cross_strike"
       },
       {
         "level": 45,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 51,
-        "move": "thrash"
+        "move": "rampage"
       }
     ],
     "types": [
@@ -3562,35 +3562,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 11,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 20,
-        "move": "pay_day"
+        "move": "coin_scatter"
       },
       {
         "level": 28,
-        "move": "faint_attack"
+        "move": "blindside"
       },
       {
         "level": 35,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 41,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 46,
-        "move": "slash"
+        "move": "raking_slash"
       }
     ],
     "types": [
@@ -3619,11 +3619,11 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 7,
-        "move": "harden"
+        "move": "shell_up"
       }
     ],
     "types": [
@@ -3645,27 +3645,27 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "pound"
+        "move": "thwack"
       },
       {
         "level": 10,
-        "move": "transform"
+        "move": "shapeshifter"
       },
       {
         "level": 20,
-        "move": "mega_punch"
+        "move": "crusher_blow"
       },
       {
         "level": 30,
-        "move": "metronome"
+        "move": "wild_chance"
       },
       {
         "level": 40,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       },
       {
         "level": 50,
-        "move": "ancientpower"
+        "move": "primal_force"
       }
     ],
     "types": [
@@ -3687,47 +3687,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "barrier"
+        "move": "psi_barrier"
       },
       {
         "level": 6,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 11,
-        "move": "substitute"
+        "move": "decoy_doll"
       },
       {
         "level": 16,
-        "move": "meditate"
+        "move": "focus_mind"
       },
       {
         "level": 21,
-        "move": "doubleslap"
+        "move": "twin_slap"
       },
       {
         "level": 26,
-        "move": "light_screen"
+        "move": "light_veil"
       },
       {
         "level": 26,
-        "move": "reflect"
+        "move": "psi_mirror"
       },
       {
         "level": 31,
-        "move": "encore"
+        "move": "force_repeat"
       },
       {
         "level": 36,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 41,
-        "move": "baton_pass"
+        "move": "torch_pass"
       },
       {
         "level": 46,
-        "move": "safeguard"
+        "move": "barrier_veil"
       }
     ],
     "types": [
@@ -3749,23 +3749,23 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "horn_attack"
+        "move": "gore_thrust"
       },
       {
         "level": 1,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 1,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 23,
-        "move": "thrash"
+        "move": "rampage"
       }
     ],
     "types": [
@@ -3788,23 +3788,23 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 23,
-        "move": "body_slam"
+        "move": "full_press"
       }
     ],
     "types": [
@@ -3833,35 +3833,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 8,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 12,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 17,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 23,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 30,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 38,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       }
     ],
     "types": [
@@ -3889,35 +3889,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 8,
-        "move": "horn_attack"
+        "move": "gore_thrust"
       },
       {
         "level": 12,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 17,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 23,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 30,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 38,
-        "move": "horn_drill"
+        "move": "spiral_pierce"
       }
     ],
     "types": [
@@ -3945,35 +3945,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 8,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 12,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 19,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 27,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 36,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 46,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       }
     ],
     "types": [
@@ -4001,35 +4001,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 8,
-        "move": "horn_attack"
+        "move": "gore_thrust"
       },
       {
         "level": 12,
-        "move": "double_kick"
+        "move": "double_stomp"
       },
       {
         "level": 19,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 27,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 36,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 46,
-        "move": "horn_drill"
+        "move": "spiral_pierce"
       }
     ],
     "types": [
@@ -4051,23 +4051,23 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 1,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 1,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 1,
-        "move": "safeguard"
+        "move": "barrier_veil"
       },
       {
         "level": 43,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       }
     ],
     "types": [
@@ -4095,35 +4095,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "absorb"
+        "move": "sap_drain"
       },
       {
         "level": 7,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 14,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 16,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 18,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 23,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 32,
-        "move": "moonlight"
+        "move": "lunar_mend"
       },
       {
         "level": 39,
-        "move": "petal_dance"
+        "move": "petal_frenzy"
       }
     ],
     "types": [
@@ -4152,35 +4152,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 13,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 19,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 31,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 37,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 49,
-        "move": "ancientpower"
+        "move": "primal_force"
       },
       {
         "level": 55,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -4203,43 +4203,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 1,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 13,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 19,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 31,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 37,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 40,
-        "move": "spike_cannon"
+        "move": "spike_volley"
       },
       {
         "level": 54,
-        "move": "ancientpower"
+        "move": "primal_force"
       },
       {
         "level": 65,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -4262,35 +4262,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 10,
-        "move": "bind"
+        "move": "coil_hold"
       },
       {
         "level": 14,
-        "move": "rock_throw"
+        "move": "stone_hurl"
       },
       {
         "level": 23,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 27,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 36,
-        "move": "sandstorm"
+        "move": "dust_storm"
       },
       {
         "level": 40,
-        "move": "slam"
+        "move": "groundslam"
       }
     ],
     "types": [
@@ -4318,35 +4318,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 7,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 13,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 19,
-        "move": "leech_life"
+        "move": "blood_sap"
       },
       {
         "level": 25,
-        "move": "spore"
+        "move": "deep_spore"
       },
       {
         "level": 31,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 37,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 43,
-        "move": "giga_drain"
+        "move": "life_leech"
       }
     ],
     "types": [
@@ -4368,43 +4368,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 1,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 7,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 13,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 19,
-        "move": "leech_life"
+        "move": "blood_sap"
       },
       {
         "level": 28,
-        "move": "spore"
+        "move": "deep_spore"
       },
       {
         "level": 37,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 46,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 55,
-        "move": "giga_drain"
+        "move": "life_leech"
       }
     ],
     "types": [
@@ -4426,39 +4426,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 11,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 20,
-        "move": "pay_day"
+        "move": "coin_scatter"
       },
       {
         "level": 29,
-        "move": "faint_attack"
+        "move": "blindside"
       },
       {
         "level": 38,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 46,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 53,
-        "move": "slash"
+        "move": "raking_slash"
       }
     ],
     "types": [
@@ -4481,47 +4481,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 1,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 1,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 5,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 9,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 15,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 23,
-        "move": "whirlwind"
+        "move": "blowaway"
       },
       {
         "level": 33,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 46,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 61,
-        "move": "mirror_move"
+        "move": "copy_flight"
       }
     ],
     "types": [
@@ -4550,43 +4550,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 1,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 5,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 9,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 15,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 23,
-        "move": "whirlwind"
+        "move": "blowaway"
       },
       {
         "level": 33,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 43,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 55,
-        "move": "mirror_move"
+        "move": "copy_flight"
       }
     ],
     "types": [
@@ -4615,35 +4615,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 5,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 9,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 15,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 21,
-        "move": "whirlwind"
+        "move": "blowaway"
       },
       {
         "level": 29,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 37,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 47,
-        "move": "mirror_move"
+        "move": "copy_flight"
       }
     ],
     "types": [
@@ -4672,47 +4672,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "thundershock"
+        "move": "spark_jolt"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 6,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 8,
-        "move": "thunder_wave"
+        "move": "static_pulse"
       },
       {
         "level": 11,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 15,
-        "move": "double_team"
+        "move": "after_image"
       },
       {
         "level": 20,
-        "move": "slam"
+        "move": "groundslam"
       },
       {
         "level": 26,
-        "move": "thunderbolt"
+        "move": "bolt_strike"
       },
       {
         "level": 33,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 41,
-        "move": "thunder"
+        "move": "storm_call"
       },
       {
         "level": 50,
-        "move": "light_screen"
+        "move": "light_veil"
       }
     ],
     "types": [
@@ -4734,35 +4734,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "vicegrip"
+        "move": "ironclench"
       },
       {
         "level": 7,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 13,
-        "move": "bind"
+        "move": "coil_hold"
       },
       {
         "level": 19,
-        "move": "seismic_toss"
+        "move": "gravity_throw"
       },
       {
         "level": 25,
-        "move": "harden"
+        "move": "shell_up"
       },
       {
         "level": 31,
-        "move": "guillotine"
+        "move": "death_grip"
       },
       {
         "level": 37,
-        "move": "submission"
+        "move": "hold_throw"
       },
       {
         "level": 43,
-        "move": "swords_dance"
+        "move": "blade_ritual"
       }
     ],
     "types": [
@@ -4790,39 +4790,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 4,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 8,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 13,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 19,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 26,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       },
       {
         "level": 34,
-        "move": "take_down"
+        "move": "bulldash"
       },
       {
         "level": 43,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 53,
-        "move": "fire_blast"
+        "move": "pyre_burst"
       }
     ],
     "types": [
@@ -4844,43 +4844,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "conversion2"
+        "move": "adapt_shift"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "conversion"
+        "move": "type_shift"
       },
       {
         "level": 9,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 12,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 20,
-        "move": "recover"
+        "move": "self_mend"
       },
       {
         "level": 24,
-        "move": "sharpen"
+        "move": "hone_claws"
       },
       {
         "level": 32,
-        "move": "lock_on"
+        "move": "target_lock"
       },
       {
         "level": 36,
-        "move": "tri_attack"
+        "move": "triple_beam"
       },
       {
         "level": 44,
-        "move": "zap_cannon"
+        "move": "plasma_cannon"
       }
     ],
     "types": [
@@ -4903,55 +4903,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 1,
-        "move": "low_kick"
+        "move": "leg_sweep"
       },
       {
         "level": 1,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 9,
-        "move": "low_kick"
+        "move": "leg_sweep"
       },
       {
         "level": 15,
-        "move": "karate_chop"
+        "move": "karate_strike"
       },
       {
         "level": 21,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 27,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 28,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 36,
-        "move": "seismic_toss"
+        "move": "gravity_throw"
       },
       {
         "level": 45,
-        "move": "cross_chop"
+        "move": "cross_strike"
       },
       {
         "level": 54,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 63,
-        "move": "thrash"
+        "move": "rampage"
       }
     ],
     "types": [
@@ -4979,35 +4979,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 5,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 10,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 16,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 23,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 31,
-        "move": "psych_up"
+        "move": "mirror_mind"
       },
       {
         "level": 40,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 50,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -5030,19 +5030,19 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "thundershock"
+        "move": "spark_jolt"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 1,
-        "move": "thunderbolt"
+        "move": "bolt_strike"
       }
     ],
     "types": [
@@ -5064,55 +5064,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 4,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 8,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 13,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 19,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 26,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       },
       {
         "level": 34,
-        "move": "take_down"
+        "move": "bulldash"
       },
       {
         "level": 40,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 47,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 61,
-        "move": "fire_blast"
+        "move": "pyre_burst"
       }
     ],
     "types": [
@@ -5134,35 +5134,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 7,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 13,
-        "move": "hyper_fang"
+        "move": "savage_bite"
       },
       {
         "level": 20,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 30,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 40,
-        "move": "super_fang"
+        "move": "half_bite"
       }
     ],
     "types": [
@@ -5190,31 +5190,31 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 7,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 13,
-        "move": "hyper_fang"
+        "move": "savage_bite"
       },
       {
         "level": 20,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 27,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 34,
-        "move": "super_fang"
+        "move": "half_bite"
       }
     ],
     "types": [
@@ -5236,43 +5236,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "horn_attack"
+        "move": "gore_thrust"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 1,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 13,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 19,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 31,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 37,
-        "move": "horn_drill"
+        "move": "spiral_pierce"
       },
       {
         "level": 54,
-        "move": "take_down"
+        "move": "bulldash"
       },
       {
         "level": 65,
-        "move": "earthquake"
+        "move": "tremor"
       }
     ],
     "types": [
@@ -5300,35 +5300,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "horn_attack"
+        "move": "gore_thrust"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 13,
-        "move": "stomp"
+        "move": "heel_drop"
       },
       {
         "level": 19,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 31,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 37,
-        "move": "horn_drill"
+        "move": "spiral_pierce"
       },
       {
         "level": 49,
-        "move": "take_down"
+        "move": "bulldash"
       },
       {
         "level": 55,
-        "move": "earthquake"
+        "move": "tremor"
       }
     ],
     "types": [
@@ -5356,35 +5356,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 6,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 11,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 17,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 23,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 30,
-        "move": "swift"
+        "move": "star_dart"
       },
       {
         "level": 37,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 45,
-        "move": "sandstorm"
+        "move": "dust_storm"
       }
     ],
     "types": [
@@ -5406,43 +5406,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "scratch"
+        "move": "claw_swipe"
       },
       {
         "level": 1,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 1,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 6,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 11,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 17,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 24,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 33,
-        "move": "swift"
+        "move": "star_dart"
       },
       {
         "level": 42,
-        "move": "fury_swipes"
+        "move": "claw_frenzy"
       },
       {
         "level": 52,
-        "move": "sandstorm"
+        "move": "dust_storm"
       }
     ],
     "types": [
@@ -5464,43 +5464,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 1,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 6,
-        "move": "focus_energy"
+        "move": "inner_focus"
       },
       {
         "level": 12,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 18,
-        "move": "false_swipe"
+        "move": "mercy_cut"
       },
       {
         "level": 24,
-        "move": "agility"
+        "move": "thought_speed"
       },
       {
         "level": 30,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 36,
-        "move": "slash"
+        "move": "raking_slash"
       },
       {
         "level": 42,
-        "move": "swords_dance"
+        "move": "blade_ritual"
       },
       {
         "level": 48,
-        "move": "double_team"
+        "move": "after_image"
       }
     ],
     "types": [
@@ -5529,35 +5529,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 9,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 17,
-        "move": "aurora_beam"
+        "move": "aurora_ray"
       },
       {
         "level": 25,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 33,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 41,
-        "move": "clamp"
+        "move": "shell_clamp"
       },
       {
         "level": 49,
-        "move": "ice_beam"
+        "move": "frost_beam"
       }
     ],
     "types": [
@@ -5580,51 +5580,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "curse"
+        "move": "hex_curse"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 6,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 15,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 20,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 29,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 34,
-        "move": "headbutt"
+        "move": "ramming_charge"
       },
       {
         "level": 37,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 46,
-        "move": "amnesia"
+        "move": "memory_wipe"
       },
       {
         "level": 54,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       }
     ],
     "types": [
@@ -5653,39 +5653,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "curse"
+        "move": "hex_curse"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 6,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 15,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 20,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 29,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 34,
-        "move": "headbutt"
+        "move": "ramming_charge"
       },
       {
         "level": 43,
-        "move": "amnesia"
+        "move": "memory_wipe"
       },
       {
         "level": 48,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       }
     ],
     "types": [
@@ -5708,43 +5708,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 8,
-        "move": "amnesia"
+        "move": "memory_wipe"
       },
       {
         "level": 15,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 22,
-        "move": "belly_drum"
+        "move": "max_windmill"
       },
       {
         "level": 29,
-        "move": "headbutt"
+        "move": "ramming_charge"
       },
       {
         "level": 36,
-        "move": "snore"
+        "move": "sleep_thrash"
       },
       {
         "level": 36,
-        "move": "rest"
+        "move": "deep_sleep"
       },
       {
         "level": 43,
-        "move": "body_slam"
+        "move": "full_press"
       },
       {
         "level": 50,
-        "move": "rollout"
+        "move": "boulder_roll"
       },
       {
         "level": 57,
-        "move": "hyper_beam"
+        "move": "obliterate"
       }
     ],
     "types": [
@@ -5772,35 +5772,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "peck"
+        "move": "sharp_peck"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 7,
-        "move": "leer"
+        "move": "glower"
       },
       {
         "level": 13,
-        "move": "fury_attack"
+        "move": "frenzy_jabs"
       },
       {
         "level": 25,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 31,
-        "move": "mirror_move"
+        "move": "copy_flight"
       },
       {
         "level": 37,
-        "move": "drill_peck"
+        "move": "drill_dive"
       },
       {
         "level": 43,
-        "move": "agility"
+        "move": "thought_speed"
       }
     ],
     "types": [
@@ -5828,47 +5828,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 4,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 7,
-        "move": "bubble"
+        "move": "blip_bubble"
       },
       {
         "level": 10,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 13,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 18,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 23,
-        "move": "rapid_spin"
+        "move": "whirlspin"
       },
       {
         "level": 28,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 33,
-        "move": "rain_dance"
+        "move": "downpour"
       },
       {
         "level": 40,
-        "move": "skull_bash"
+        "move": "headlong_bash"
       },
       {
         "level": 47,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -5890,43 +5890,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 4,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 10,
-        "move": "absorb"
+        "move": "sap_drain"
       },
       {
         "level": 13,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 19,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 25,
-        "move": "bind"
+        "move": "coil_hold"
       },
       {
         "level": 31,
-        "move": "mega_drain"
+        "move": "deep_sap_drain"
       },
       {
         "level": 34,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 40,
-        "move": "slam"
+        "move": "groundslam"
       },
       {
         "level": 46,
-        "move": "growth"
+        "move": "lifebloom"
       }
     ],
     "types": [
@@ -5949,39 +5949,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 4,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 8,
-        "move": "rage"
+        "move": "fury_rage"
       },
       {
         "level": 13,
-        "move": "horn_attack"
+        "move": "gore_thrust"
       },
       {
         "level": 19,
-        "move": "scary_face"
+        "move": "terror_visage"
       },
       {
         "level": 26,
-        "move": "pursuit"
+        "move": "ambush"
       },
       {
         "level": 34,
-        "move": "rest"
+        "move": "deep_sleep"
       },
       {
         "level": 43,
-        "move": "thrash"
+        "move": "rampage"
       },
       {
         "level": 53,
-        "move": "take_down"
+        "move": "bulldash"
       }
     ],
     "types": [
@@ -6009,39 +6009,39 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 6,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 12,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 19,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 25,
-        "move": "bubblebeam"
+        "move": "bubble_volley"
       },
       {
         "level": 30,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 36,
-        "move": "barrier"
+        "move": "psi_barrier"
       },
       {
         "level": 43,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 49,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -6064,47 +6064,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 1,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 6,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 12,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 19,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 25,
-        "move": "bubblebeam"
+        "move": "bubble_volley"
       },
       {
         "level": 30,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 38,
-        "move": "barrier"
+        "move": "psi_barrier"
       },
       {
         "level": 47,
-        "move": "screech"
+        "move": "piercing_shriek"
       },
       {
         "level": 55,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -6127,43 +6127,43 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 8,
-        "move": "sand_attack"
+        "move": "dust_spray"
       },
       {
         "level": 16,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 23,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 30,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 36,
-        "move": "aurora_beam"
+        "move": "aurora_ray"
       },
       {
         "level": 42,
-        "move": "haze"
+        "move": "chill_haze"
       },
       {
         "level": 47,
-        "move": "acid_armor"
+        "move": "acid_coat"
       },
       {
         "level": 52,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -6185,55 +6185,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 1,
-        "move": "foresight"
+        "move": "true_sight"
       },
       {
         "level": 1,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 9,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 17,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 20,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 25,
-        "move": "leech_life"
+        "move": "blood_sap"
       },
       {
         "level": 28,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 31,
-        "move": "gust"
+        "move": "wind_gust"
       },
       {
         "level": 36,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 42,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 52,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       }
     ],
     "types": [
@@ -6262,47 +6262,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 1,
-        "move": "foresight"
+        "move": "true_sight"
       },
       {
         "level": 9,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 17,
-        "move": "confusion"
+        "move": "psycho_pulse"
       },
       {
         "level": 20,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 25,
-        "move": "leech_life"
+        "move": "blood_sap"
       },
       {
         "level": 28,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 33,
-        "move": "psybeam"
+        "move": "mind_ray"
       },
       {
         "level": 36,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 41,
-        "move": "psychic_m"
+        "move": "psychic_surge"
       }
     ],
     "types": [
@@ -6325,59 +6325,59 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 1,
-        "move": "leech_seed"
+        "move": "paraseed"
       },
       {
         "level": 1,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 4,
-        "move": "growl"
+        "move": "low_cry"
       },
       {
         "level": 7,
-        "move": "leech_seed"
+        "move": "paraseed"
       },
       {
         "level": 10,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 15,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 15,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 22,
-        "move": "razor_leaf"
+        "move": "blade_leaf"
       },
       {
         "level": 29,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 41,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 53,
-        "move": "synthesis"
+        "move": "photosynthesis"
       },
       {
         "level": 65,
-        "move": "solarbeam"
+        "move": "sun_beam"
       }
     ],
     "types": [
@@ -6400,19 +6400,19 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 1,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 1,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 1,
-        "move": "razor_leaf"
+        "move": "blade_leaf"
       }
     ],
     "types": [
@@ -6435,19 +6435,19 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "absorb"
+        "move": "sap_drain"
       },
       {
         "level": 1,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 1,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 1,
-        "move": "petal_dance"
+        "move": "petal_frenzy"
       }
     ],
     "types": [
@@ -6476,35 +6476,35 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "ember"
+        "move": "cinder_shot"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 7,
-        "move": "quick_attack"
+        "move": "quick_strike"
       },
       {
         "level": 13,
-        "move": "roar"
+        "move": "terrifying_roar"
       },
       {
         "level": 19,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 25,
-        "move": "safeguard"
+        "move": "barrier_veil"
       },
       {
         "level": 31,
-        "move": "flamethrower"
+        "move": "blazestream"
       },
       {
         "level": 37,
-        "move": "fire_spin"
+        "move": "flame_vortex"
       }
     ],
     "types": [
@@ -6532,55 +6532,55 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 1,
-        "move": "bubble"
+        "move": "blip_bubble"
       },
       {
         "level": 4,
-        "move": "tail_whip"
+        "move": "tail_flick"
       },
       {
         "level": 7,
-        "move": "bubble"
+        "move": "blip_bubble"
       },
       {
         "level": 10,
-        "move": "withdraw"
+        "move": "shell_retreat"
       },
       {
         "level": 13,
-        "move": "water_gun"
+        "move": "water_shot"
       },
       {
         "level": 19,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 25,
-        "move": "rapid_spin"
+        "move": "whirlspin"
       },
       {
         "level": 31,
-        "move": "protect"
+        "move": "ward_shell"
       },
       {
         "level": 37,
-        "move": "rain_dance"
+        "move": "downpour"
       },
       {
         "level": 45,
-        "move": "skull_bash"
+        "move": "headlong_bash"
       },
       {
         "level": 53,
-        "move": "hydro_pump"
+        "move": "torrent_blast"
       }
     ],
     "types": [
@@ -6608,11 +6608,11 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "poison_sting"
+        "move": "venom_jab"
       },
       {
         "level": 1,
-        "move": "string_shot"
+        "move": "web_snare"
       }
     ],
     "types": [
@@ -6640,51 +6640,51 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "vine_whip"
+        "move": "tendril_lash"
       },
       {
         "level": 1,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 1,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 6,
-        "move": "growth"
+        "move": "lifebloom"
       },
       {
         "level": 11,
-        "move": "wrap"
+        "move": "constrict"
       },
       {
         "level": 15,
-        "move": "sleep_powder"
+        "move": "slumber_dust"
       },
       {
         "level": 17,
-        "move": "poisonpowder"
+        "move": "toxic_dusting"
       },
       {
         "level": 19,
-        "move": "stun_spore"
+        "move": "numbing_spore"
       },
       {
         "level": 24,
-        "move": "acid"
+        "move": "acid_spray"
       },
       {
         "level": 33,
-        "move": "sweet_scent"
+        "move": "allure_scent"
       },
       {
         "level": 42,
-        "move": "razor_leaf"
+        "move": "blade_leaf"
       },
       {
         "level": 54,
-        "move": "slam"
+        "move": "groundslam"
       }
     ],
     "types": [
@@ -6707,47 +6707,47 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "poison_gas"
+        "move": "poison_cloud"
       },
       {
         "level": 1,
-        "move": "tackle"
+        "move": "body_rush"
       },
       {
         "level": 1,
-        "move": "smog"
+        "move": "toxic_smog"
       },
       {
         "level": 1,
-        "move": "selfdestruct"
+        "move": "self_ignite"
       },
       {
         "level": 9,
-        "move": "smog"
+        "move": "toxic_smog"
       },
       {
         "level": 17,
-        "move": "selfdestruct"
+        "move": "self_ignite"
       },
       {
         "level": 21,
-        "move": "sludge"
+        "move": "sludge_hurl"
       },
       {
         "level": 25,
-        "move": "smokescreen"
+        "move": "smoke_veil"
       },
       {
         "level": 33,
-        "move": "haze"
+        "move": "chill_haze"
       },
       {
         "level": 44,
-        "move": "explosion"
+        "move": "grand_explosion"
       },
       {
         "level": 51,
-        "move": "destiny_bond"
+        "move": "doom_bond"
       }
     ],
     "types": [
@@ -6769,19 +6769,19 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "sing"
+        "move": "lullaby"
       },
       {
         "level": 1,
-        "move": "disable"
+        "move": "lockdown"
       },
       {
         "level": 1,
-        "move": "defense_curl"
+        "move": "curl_guard"
       },
       {
         "level": 1,
-        "move": "doubleslap"
+        "move": "twin_slap"
       }
     ],
     "types": [
@@ -6809,31 +6809,31 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "leech_life"
+        "move": "blood_sap"
       },
       {
         "level": 6,
-        "move": "supersonic"
+        "move": "sonic_pulse"
       },
       {
         "level": 12,
-        "move": "bite"
+        "move": "fang_strike"
       },
       {
         "level": 19,
-        "move": "confuse_ray"
+        "move": "bewildering_ray"
       },
       {
         "level": 27,
-        "move": "wing_attack"
+        "move": "wing_slash"
       },
       {
         "level": 36,
-        "move": "mean_look"
+        "move": "locking_gaze"
       },
       {
         "level": 46,
-        "move": "haze"
+        "move": "chill_haze"
       }
     ],
     "types": [
