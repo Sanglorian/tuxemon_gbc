@@ -1,0 +1,2175 @@
+{
+  "Thwack": {
+    "power": 40,
+    "maxPP": 35,
+    "physical": true,
+    "moveType": "normal"
+  },
+  "KarateStrike": {
+    "power": 50,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "heroic"
+  },
+  "TwinSlap": {
+    "power": 15,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "multiHit": true,
+    "accuracy": 85
+  },
+  "MeteorFlurry": {
+    "power": 18,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "multiHit": true,
+    "accuracy": 85
+  },
+  "CrusherBlow": {
+    "power": 80,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "accuracy": 85
+  },
+  "CoinScatter": {
+    "power": 40,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "payDay": true
+  },
+  "InfernoFist": {
+    "power": 75,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "effect": {
+      "type": "burn",
+      "chance": 0.1
+    }
+  },
+  "GlacialFist": {
+    "power": 75,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "frost",
+    "effect": {
+      "type": "freeze",
+      "chance": 0.1
+    }
+  },
+  "Voltfist": {
+    "power": 75,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "lightning",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.1
+    }
+  },
+  "ClawSwipe": {
+    "power": 40,
+    "maxPP": 35,
+    "physical": true,
+    "moveType": "normal"
+  },
+  "Ironclench": {
+    "power": 55,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal"
+  },
+  "DeathGrip": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "shadow",
+    "ohko": true,
+    "accuracy": 30
+  },
+  "SlicerGale": {
+    "power": 80,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "sky",
+    "chargeMove": true,
+    "chargeMsg": "Whipping up\na whirlwind!",
+    "accuracy": 75
+  },
+  "BladeRitual": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "metal",
+    "effect": {
+      "type": "atk_up",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 100
+  },
+  "Cleave": {
+    "power": 50,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "accuracy": 95
+  },
+  "WindGust": {
+    "power": 40,
+    "maxPP": 35,
+    "physical": false,
+    "moveType": "sky",
+    "gustMove": true
+  },
+  "WingSlash": {
+    "power": 60,
+    "maxPP": 35,
+    "physical": false,
+    "moveType": "sky"
+  },
+  "Blowaway": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "sky",
+    "forceSwitch": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "AerialDive": {
+    "power": 70,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "sky",
+    "chargeMove": true,
+    "invulnerable": true,
+    "chargeMsg": "Took flight!",
+    "accuracy": 95
+  },
+  "CoilHold": {
+    "power": 15,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "trapMove": true,
+    "accuracy": 75
+  },
+  "Groundslam": {
+    "power": 80,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "accuracy": 75
+  },
+  "TendrilLash": {
+    "power": 35,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "wood"
+  },
+  "HeelDrop": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "stomp": true,
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    }
+  },
+  "DoubleStomp": {
+    "power": 30,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "heroic",
+    "doubleHit": true
+  },
+  "TitanKick": {
+    "power": 120,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "heroic",
+    "accuracy": 75
+  },
+  "LeapingKick": {
+    "power": 70,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "heroic",
+    "jumpKick": true,
+    "accuracy": 95
+  },
+  "SpinKick": {
+    "power": 60,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "heroic",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    },
+    "accuracy": 85
+  },
+  "DustSpray": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "earth",
+    "effect": {
+      "type": "acc_down",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "RammingCharge": {
+    "power": 70,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    }
+  },
+  "GoreThrust": {
+    "power": 65,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "normal"
+  },
+  "FrenzyJabs": {
+    "power": 15,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "multiHit": true,
+    "accuracy": 85
+  },
+  "SpiralPierce": {
+    "power": 1,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "ohko": true,
+    "accuracy": 30
+  },
+  "BodyRush": {
+    "power": 35,
+    "maxPP": 35,
+    "physical": true,
+    "moveType": "normal",
+    "accuracy": 95
+  },
+  "FullPress": {
+    "power": 85,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.3
+    }
+  },
+  "Constrict": {
+    "power": 15,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "trapMove": true,
+    "accuracy": 85
+  },
+  "Bulldash": {
+    "power": 90,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "recoil": 0.3333333333333333,
+    "accuracy": 85
+  },
+  "Rampage": {
+    "power": 90,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "rampage": true
+  },
+  "RecklessCharge": {
+    "power": 120,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "recoil": 0.25
+  },
+  "TailFlick": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "def_down",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "VenomJab": {
+    "power": 15,
+    "maxPP": 35,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "poison",
+      "chance": 0.3
+    }
+  },
+  "TwinSting": {
+    "power": 25,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "venom",
+    "doubleHit": true,
+    "effect": {
+      "type": "poison",
+      "chance": 0.2
+    }
+  },
+  "NeedleVolley": {
+    "power": 14,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "venom",
+    "multiHit": true,
+    "accuracy": 85
+  },
+  "Glower": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "def_down",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "LowCry": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "atk_down",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "TerrifyingRoar": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "forceSwitch": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "Lullaby": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "sleep",
+      "chance": 1.0
+    },
+    "accuracy": 55
+  },
+  "SonicPulse": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "confuse",
+      "chance": 1.0
+    },
+    "accuracy": 55
+  },
+  "Shockwave": {
+    "power": 1,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "damageType": "fixed",
+    "fixedDamage": 20,
+    "accuracy": 90
+  },
+  "Lockdown": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "shadow",
+    "disable": true,
+    "accuracy": 55
+  },
+  "AcidSpray": {
+    "power": 40,
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "def_down",
+      "chance": 0.1
+    }
+  },
+  "CinderShot": {
+    "power": 40,
+    "maxPP": 25,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "effect": {
+      "type": "burn",
+      "chance": 0.1
+    }
+  },
+  "Blazestream": {
+    "power": 95,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "effect": {
+      "type": "burn",
+      "chance": 0.1
+    }
+  },
+  "IcyMist": {
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "frost",
+    "mist": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "WaterShot": {
+    "power": 40,
+    "maxPP": 25,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true
+  },
+  "TorrentBlast": {
+    "power": 120,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "accuracy": 80
+  },
+  "WaveSurge": {
+    "power": 95,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true
+  },
+  "FrostBeam": {
+    "power": 95,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "frost",
+    "effect": {
+      "type": "freeze",
+      "chance": 0.1
+    }
+  },
+  "BlizzardStorm": {
+    "power": 120,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "frost",
+    "effect": {
+      "type": "freeze",
+      "chance": 0.1
+    },
+    "accuracy": 70
+  },
+  "MindRay": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "confuse",
+      "chance": 0.1
+    }
+  },
+  "BubbleVolley": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "effect": {
+      "type": "spd_down",
+      "chance": 0.1
+    }
+  },
+  "AuroraRay": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "frost",
+    "effect": {
+      "type": "atk_down_hit",
+      "chance": 0.1
+    }
+  },
+  "SharpPeck": {
+    "power": 35,
+    "maxPP": 35,
+    "physical": false,
+    "moveType": "sky"
+  },
+  "DrillDive": {
+    "power": 80,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "sky"
+  },
+  "HoldThrow": {
+    "power": 80,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "heroic",
+    "recoil": 0.25,
+    "accuracy": 80
+  },
+  "LegSweep": {
+    "power": 50,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "heroic",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    },
+    "accuracy": 90
+  },
+  "Retaliation": {
+    "power": 1,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "heroic",
+    "counter": true,
+    "accuracy": 100
+  },
+  "GravityThrow": {
+    "power": 1,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "heroic",
+    "damageType": "level"
+  },
+  "MightyHeave": {
+    "power": 80,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "heroic"
+  },
+  "SapDrain": {
+    "power": 20,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "wood",
+    "drain": 0.5
+  },
+  "DeepSapDrain": {
+    "power": 40,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "wood",
+    "drain": 0.5
+  },
+  "Paraseed": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "wood",
+    "leechSeed": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 90
+  },
+  "Lifebloom": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "wood",
+    "effect": {
+      "type": "sp_atk_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "BladeLeaf": {
+    "power": 55,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "wood",
+    "accuracy": 95
+  },
+  "SunBeam": {
+    "power": 120,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "wood",
+    "chargeMove": true,
+    "skipChargeInSun": true,
+    "weakInRain": true,
+    "chargeMsg": "Absorbing\nsunlight!"
+  },
+  "ToxicDusting": {
+    "maxPP": 35,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "poison",
+      "chance": 1.0
+    },
+    "accuracy": 75
+  },
+  "NumbingSpore": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "wood",
+    "effect": {
+      "type": "paralyze",
+      "chance": 1.0
+    },
+    "accuracy": 75
+  },
+  "SlumberDust": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "wood",
+    "effect": {
+      "type": "sleep",
+      "chance": 1.0
+    },
+    "accuracy": 75
+  },
+  "PetalFrenzy": {
+    "power": 70,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "wood",
+    "rampage": true
+  },
+  "WebSnare": {
+    "maxPP": 40,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "spd_down",
+      "chance": 1.0
+    },
+    "accuracy": 95
+  },
+  "DragonWrath": {
+    "power": 1,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "damageType": "fixed",
+    "fixedDamage": 40
+  },
+  "FlameVortex": {
+    "power": 15,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "trapMove": true,
+    "accuracy": 70
+  },
+  "SparkJolt": {
+    "power": 40,
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "lightning",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.1
+    }
+  },
+  "BoltStrike": {
+    "power": 95,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "lightning",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.1
+    }
+  },
+  "StaticPulse": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "lightning",
+    "effect": {
+      "type": "paralyze",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "StormCall": {
+    "power": 120,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "lightning",
+    "thunderAcc": true,
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.3
+    },
+    "accuracy": 70
+  },
+  "StoneHurl": {
+    "power": 50,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "earth",
+    "accuracy": 90
+  },
+  "Tremor": {
+    "power": 100,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "earthquake": true
+  },
+  "GroundSplit": {
+    "power": 1,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "earth",
+    "ohko": true,
+    "accuracy": 30
+  },
+  "Burrow": {
+    "power": 60,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "chargeMove": true,
+    "invulnerable": true,
+    "chargeMsg": "Took flight!"
+  },
+  "DeepPoison": {
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "toxic",
+      "chance": 1.0
+    },
+    "accuracy": 85
+  },
+  "PsychoPulse": {
+    "power": 50,
+    "maxPP": 25,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "confuse",
+      "chance": 0.1
+    }
+  },
+  "PsychicSurge": {
+    "power": 90,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "sp_def_down",
+      "chance": 0.1
+    }
+  },
+  "DeepTrance": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "sleep",
+      "chance": 1.0
+    },
+    "accuracy": 60
+  },
+  "FocusMind": {
+    "maxPP": 40,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "atk_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "ThoughtSpeed": {
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "spd_up",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 100
+  },
+  "Blink": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "cosmic",
+    "teleport": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ShadeTouch": {
+    "power": 1,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "shadow",
+    "damageType": "level"
+  },
+  "CopyArt": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "mimic": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "PiercingShriek": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "def_down",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 85
+  },
+  "AfterImage": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "eva_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "SelfMend": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "healFraction": 0.5,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ShellUp": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "def_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "Shrink": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "eva_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "SmokeVeil": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "acc_down",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "BewilderingRay": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "confuse",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "ShellRetreat": {
+    "maxPP": 40,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "effect": {
+      "type": "def_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "CurlGuard": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "defenseCurl": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "PsiBarrier": {
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "def_up",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 100
+  },
+  "LightVeil": {
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "cosmic",
+    "lightScreen": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ChillHaze": {
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "frost",
+    "resetStats": true,
+    "accuracy": 100
+  },
+  "PsiMirror": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "cosmic",
+    "reflect": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "InnerFocus": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "heroic",
+    "focusEnergy": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "EndurePain": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "bide": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "WildChance": {
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "cosmic",
+    "_unknownEffect": "effect_metronome",
+    "accuracy": 100
+  },
+  "CopyFlight": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "sky",
+    "_unknownEffect": "effect_mirror_move",
+    "accuracy": 100
+  },
+  "SelfIgnite": {
+    "power": 200,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "selfKO": true
+  },
+  "EggBurst": {
+    "power": 100,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "accuracy": 75
+  },
+  "ChillLick": {
+    "power": 20,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.3
+    }
+  },
+  "ToxicSmog": {
+    "power": 20,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "poison",
+      "chance": 0.4
+    },
+    "accuracy": 70
+  },
+  "SludgeHurl": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "poison",
+      "chance": 0.3
+    }
+  },
+  "BoneBash": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "earth",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.1
+    },
+    "accuracy": 85
+  },
+  "PyreBurst": {
+    "power": 120,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "effect": {
+      "type": "burn",
+      "chance": 0.1
+    },
+    "accuracy": 85
+  },
+  "CrashingFall": {
+    "power": 80,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true
+  },
+  "ShellClamp": {
+    "power": 35,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "trapMove": true,
+    "accuracy": 75
+  },
+  "StarDart": {
+    "power": 60,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "sky",
+    "alwaysHit": true
+  },
+  "HeadlongBash": {
+    "power": 100,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "chargeMove": true,
+    "chargeStatBoost": {
+      "stat": "def",
+      "stages": 1
+    },
+    "chargeMsg": "Lowering\nhead!"
+  },
+  "SpikeVolley": {
+    "power": 20,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "multiHit": true
+  },
+  "Squeeze": {
+    "power": 10,
+    "maxPP": 35,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "spd_down",
+      "chance": 0.1
+    }
+  },
+  "MemoryWipe": {
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "sp_def_up",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 100
+  },
+  "MindBend": {
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "cosmic",
+    "effect": {
+      "type": "acc_down",
+      "chance": 1.0
+    },
+    "accuracy": 80
+  },
+  "EggHeal": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "healFraction": 0.5,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "SkyKick": {
+    "power": 85,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "heroic",
+    "jumpKick": true,
+    "accuracy": 90
+  },
+  "ParalyzeGaze": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "paralyze",
+      "chance": 1.0
+    },
+    "accuracy": 75
+  },
+  "DreamDevour": {
+    "power": 100,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "cosmic",
+    "dreamEater": true,
+    "drain": 0.5
+  },
+  "PoisonCloud": {
+    "maxPP": 40,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "poison",
+      "chance": 1.0
+    },
+    "accuracy": 55
+  },
+  "SeedBarrage": {
+    "power": 15,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "wood",
+    "multiHit": true,
+    "accuracy": 85
+  },
+  "BloodSap": {
+    "power": 20,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "wood",
+    "drain": 0.5
+  },
+  "DreamyKiss": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "sleep",
+      "chance": 1.0
+    },
+    "accuracy": 75
+  },
+  "SkydiveStrike": {
+    "power": 140,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "sky",
+    "chargeMove": true,
+    "invulnerable": true,
+    "chargeMsg": "Rose up high!",
+    "accuracy": 90
+  },
+  "Shapeshifter": {
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "cosmic",
+    "_unknownEffect": "effect_transform",
+    "accuracy": 100
+  },
+  "BlipBubble": {
+    "power": 20,
+    "maxPP": 30,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "effect": {
+      "type": "spd_down",
+      "chance": 0.1
+    }
+  },
+  "SpinningBlow": {
+    "power": 70,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "confuse",
+      "chance": 0.2
+    }
+  },
+  "DeepSpore": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "wood",
+    "effect": {
+      "type": "sleep",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "PsiWave": {
+    "power": 1,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "cosmic",
+    "psywave": true,
+    "accuracy": 80
+  },
+  "FutileFlop": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "splash": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "AcidCoat": {
+    "maxPP": 40,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "def_up",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 100
+  },
+  "ClawSlam": {
+    "power": 90,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "accuracy": 85
+  },
+  "GrandExplosion": {
+    "power": 250,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "selfKO": true
+  },
+  "ClawFrenzy": {
+    "power": 18,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "multiHit": true,
+    "accuracy": 80
+  },
+  "BoneBoomerang": {
+    "power": 50,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "doubleHit": true,
+    "accuracy": 90
+  },
+  "DeepSleep": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "healFraction": 0.5,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "AvalancheRocks": {
+    "power": 75,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    },
+    "accuracy": 90
+  },
+  "SavageBite": {
+    "power": 80,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.1
+    },
+    "accuracy": 90
+  },
+  "HoneClaws": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "metal",
+    "effect": {
+      "type": "atk_up",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "TypeShift": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "conversion": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "TripleBeam": {
+    "power": 80,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "tri_attack",
+      "chance": 0.2
+    }
+  },
+  "HalfBite": {
+    "power": 1,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "superFang": true,
+    "accuracy": 90
+  },
+  "RakingSlash": {
+    "power": 70,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal"
+  },
+  "DecoyDoll": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "substitute": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "LastResort": {
+    "power": 50,
+    "maxPP": 1,
+    "physical": true,
+    "moveType": "normal",
+    "recoil": 0.5
+  },
+  "TraceMove": {
+    "maxPP": 1,
+    "physical": true,
+    "moveType": "normal",
+    "sketch": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ThreeHits": {
+    "power": 10,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "heroic",
+    "tripleKick": true,
+    "accuracy": 90
+  },
+  "Pickpocket": {
+    "power": 40,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "thief": true
+  },
+  "StickyWeb": {
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "venom",
+    "meanLook": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "Precognition": {
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "cosmic",
+    "lockOn": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "DarkNightmare": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "shadow",
+    "nightmare": true,
+    "accuracy": 100
+  },
+  "RollingBlaze": {
+    "power": 60,
+    "maxPP": 25,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "thawsUser": true,
+    "effect": {
+      "type": "burn",
+      "chance": 0.1
+    }
+  },
+  "SleepThrash": {
+    "power": 40,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "snore": true,
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    }
+  },
+  "HexCurse": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "curse": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "DesperationFlail": {
+    "power": 1,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "_unknownEffect": "effect_reversal"
+  },
+  "AdaptShift": {
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "_unknownEffect": "effect_conversion2",
+    "accuracy": 100
+  },
+  "AeroLance": {
+    "power": 100,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "sky",
+    "accuracy": 95
+  },
+  "FluffScatter": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "wood",
+    "effect": {
+      "type": "spd_down",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 85
+  },
+  "LastStand": {
+    "power": 1,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "heroic",
+    "_unknownEffect": "effect_reversal"
+  },
+  "DrainSpite": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "spite": true,
+    "accuracy": 100
+  },
+  "FrostDusting": {
+    "power": 40,
+    "maxPP": 25,
+    "physical": false,
+    "moveType": "frost",
+    "effect": {
+      "type": "freeze",
+      "chance": 0.1
+    }
+  },
+  "WardShell": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "protect": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "SwiftJab": {
+    "power": 40,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "heroic",
+    "priority": true
+  },
+  "TerrorVisage": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "spd_down",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 90
+  },
+  "Blindside": {
+    "power": 60,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "shadow",
+    "alwaysHit": true
+  },
+  "Beguile": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "confuse",
+      "chance": 1.0
+    },
+    "accuracy": 75
+  },
+  "MaxWindmill": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "heroic",
+    "bellyDrum": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "VenomBomb": {
+    "power": 90,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "poison",
+      "chance": 0.3
+    }
+  },
+  "MudFling": {
+    "power": 20,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "effect": {
+      "type": "acc_down",
+      "chance": 1.0
+    }
+  },
+  "InkCannon": {
+    "power": 65,
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "effect": {
+      "type": "acc_down",
+      "chance": 0.5
+    },
+    "accuracy": 85
+  },
+  "GroundSpikes": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "earth",
+    "spikes": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "PlasmaCannon": {
+    "power": 100,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "lightning",
+    "effect": {
+      "type": "paralyze",
+      "chance": 1.0
+    },
+    "accuracy": 50
+  },
+  "TrueSight": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "foresight": true,
+    "accuracy": 100
+  },
+  "DoomBond": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "shadow",
+    "destinyBond": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "DoomMelody": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "shadow",
+    "perishSong": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "BitingChill": {
+    "power": 55,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "frost",
+    "effect": {
+      "type": "spd_down",
+      "chance": 1.0
+    },
+    "accuracy": 95
+  },
+  "KeenSense": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "heroic",
+    "protect": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "BoneBarrage": {
+    "power": 25,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "multiHit": true,
+    "accuracy": 80
+  },
+  "TargetLock": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "lockOn": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "DragonFrenzy": {
+    "power": 90,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "shadow",
+    "rampage": true
+  },
+  "DustStorm": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "earth",
+    "setWeather": "sand",
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "LifeLeech": {
+    "power": 60,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "wood",
+    "drain": 0.5
+  },
+  "Grit": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "heroic",
+    "endure": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "DisarmingCharm": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "atk_down",
+      "chance": 1.0,
+      "stages": 2
+    },
+    "accuracy": 100
+  },
+  "BoulderRoll": {
+    "power": 30,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "earth",
+    "escalate": true,
+    "accuracy": 90
+  },
+  "MercyCut": {
+    "power": 40,
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "falseSwipe": true
+  },
+  "TauntingBoast": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "swagger": true,
+    "accuracy": 90
+  },
+  "Nourish": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "healFraction": 0.5,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ChargeSpark": {
+    "power": 65,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "lightning",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.3
+    }
+  },
+  "IronWing": {
+    "power": 70,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "metal",
+    "effect": {
+      "type": "self_def_up",
+      "chance": 0.1
+    },
+    "accuracy": 90
+  },
+  "LockingGaze": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "shadow",
+    "meanLook": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "Infatuation": {
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "attract": true,
+    "accuracy": 100
+  },
+  "DreamTalk": {
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "normal",
+    "sleepTalk": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "HealingChime": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "healBell": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "LoyaltyStrike": {
+    "power": 102,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "accuracy": 100
+  },
+  "SurpriseGift": {
+    "power": 1,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal",
+    "present": true,
+    "accuracy": 90
+  },
+  "ResentmentBlow": {
+    "power": 1,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "shadow",
+    "accuracy": 100
+  },
+  "BarrierVeil": {
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "normal",
+    "safeguard": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ShareHurt": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "painSplit": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "HallowedFlame": {
+    "power": 100,
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "effect": {
+      "type": "burn",
+      "chance": 0.5
+    },
+    "accuracy": 95
+  },
+  "SeismicPulse": {
+    "power": 1,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "earth",
+    "earthquake": true
+  },
+  "ChaosPunch": {
+    "power": 100,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "heroic",
+    "effect": {
+      "type": "confuse",
+      "chance": 1.0
+    },
+    "accuracy": 50
+  },
+  "GreatHorn": {
+    "power": 120,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "heroic",
+    "accuracy": 85
+  },
+  "DragonExhale": {
+    "power": 60,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "venom",
+    "effect": {
+      "type": "paralyze",
+      "chance": 0.3
+    }
+  },
+  "TorchPass": {
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "batonPass": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "ForceRepeat": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "encore": true,
+    "accuracy": 100
+  },
+  "Ambush": {
+    "power": 40,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "shadow",
+    "pursuit": true
+  },
+  "Whirlspin": {
+    "power": 20,
+    "maxPP": 40,
+    "physical": true,
+    "moveType": "normal",
+    "rapidSpin": true
+  },
+  "AllureScent": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "wood",
+    "effect": {
+      "type": "eva_down",
+      "chance": 1.0
+    },
+    "accuracy": 100
+  },
+  "IronTail": {
+    "power": 100,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "metal",
+    "effect": {
+      "type": "def_down",
+      "chance": 0.3
+    },
+    "accuracy": 75
+  },
+  "SteelClaw": {
+    "power": 50,
+    "maxPP": 35,
+    "physical": true,
+    "moveType": "metal",
+    "effect": {
+      "type": "self_atk_up",
+      "chance": 0.1
+    },
+    "accuracy": 95
+  },
+  "SureThrow": {
+    "power": 70,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "heroic",
+    "alwaysHit": true
+  },
+  "DawnGlow": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "weatherHeal": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "Photosynthesis": {
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "wood",
+    "weatherHeal": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "LunarMend": {
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "cosmic",
+    "weatherHeal": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "LatentForce": {
+    "power": 60,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "normal"
+  },
+  "CrossStrike": {
+    "power": 100,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "heroic",
+    "accuracy": 80
+  },
+  "WindVortex": {
+    "power": 40,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "sky",
+    "twister": true,
+    "effect": {
+      "type": "flinch",
+      "chance": 0.2
+    }
+  },
+  "Downpour": {
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "setWeather": "rain",
+    "mirrorMoveExempt": true,
+    "accuracy": 90
+  },
+  "SolarSurge": {
+    "maxPP": 5,
+    "physical": false,
+    "moveType": "fire",
+    "fireType": true,
+    "setWeather": "sun",
+    "mirrorMoveExempt": true,
+    "accuracy": 90
+  },
+  "CrushingBite": {
+    "power": 80,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "sp_def_down",
+      "chance": 0.2
+    }
+  },
+  "PsiReflection": {
+    "power": 1,
+    "maxPP": 20,
+    "physical": false,
+    "moveType": "cosmic",
+    "mirrorCoat": true,
+    "accuracy": 100
+  },
+  "MirrorMind": {
+    "maxPP": 10,
+    "physical": false,
+    "moveType": "cosmic",
+    "psychUp": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 100
+  },
+  "BlindingDash": {
+    "power": 80,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "priority": true
+  },
+  "PrimalForce": {
+    "power": 60,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "earth",
+    "effect": {
+      "type": "all_up",
+      "chance": 0.1
+    }
+  },
+  "ShadeOrb": {
+    "power": 80,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "sp_def_down",
+      "chance": 0.2
+    }
+  },
+  "ForeseeStrike": {
+    "power": 80,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "cosmic",
+    "futureSight": true,
+    "mirrorMoveExempt": true,
+    "accuracy": 90
+  },
+  "StoneSmash": {
+    "power": 20,
+    "maxPP": 15,
+    "physical": true,
+    "moveType": "earth",
+    "effect": {
+      "type": "def_down",
+      "chance": 0.5
+    }
+  },
+  "SpiralCurrent": {
+    "power": 15,
+    "maxPP": 15,
+    "physical": false,
+    "moveType": "water",
+    "waterType": true,
+    "trapMove": true,
+    "accuracy": 70
+  },
+  "GangAssault": {
+    "power": 10,
+    "maxPP": 10,
+    "physical": true,
+    "moveType": "shadow",
+    "beatUp": true
+  },
+  "FangStrike": {
+    "power": 60,
+    "maxPP": 25,
+    "physical": true,
+    "moveType": "shadow",
+    "effect": {
+      "type": "flinch",
+      "chance": 0.3
+    }
+  },
+  "Obliterate": {
+    "power": 150,
+    "maxPP": 5,
+    "physical": true,
+    "moveType": "normal",
+    "rechargeAfter": true,
+    "accuracy": 90
+  },
+  "QuickStrike": {
+    "power": 40,
+    "maxPP": 30,
+    "physical": true,
+    "moveType": "normal",
+    "priority": true
+  },
+  "FuryRage": {
+    "power": 20,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "rage": true
+  },
+  "BlindingFlash": {
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "normal",
+    "effect": {
+      "type": "acc_down",
+      "chance": 1.0
+    },
+    "accuracy": 70
+  },
+  "BladeFrenzy": {
+    "power": 10,
+    "maxPP": 20,
+    "physical": true,
+    "moveType": "metal",
+    "escalate": true,
+    "accuracy": 95
+  }
+}
