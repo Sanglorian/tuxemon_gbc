@@ -151,7 +151,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
@@ -273,7 +273,7 @@
       },
       {
         "level": 11,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 15,
@@ -1048,7 +1048,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
@@ -1114,7 +1114,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
@@ -1191,7 +1191,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
@@ -1383,7 +1383,7 @@
     "level_up_moves": [
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 1,
@@ -3035,7 +3035,7 @@
       },
       {
         "level": 25,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 31,
@@ -6029,7 +6029,7 @@
       },
       {
         "level": 30,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 36,
@@ -6092,7 +6092,7 @@
       },
       {
         "level": 30,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 38,
@@ -6648,7 +6648,7 @@
       },
       {
         "level": 1,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 6,
@@ -6656,7 +6656,7 @@
       },
       {
         "level": 11,
-        "move": "constrict"
+        "move": "squeeze"
       },
       {
         "level": 15,
